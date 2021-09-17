@@ -1,5 +1,5 @@
 # ACLT
-This repository is the PyTorch implementation of our ACLT model in EMNLP 2021 Paper "To be Closer: Learning to Link up Aspect with Opinions".
+This repository is the PyTorch implementation of our ACLT model in EMNLP 2021 Paper "To be Closer: Learning to Link up Aspects with Opinions".
 # Requirements and Installation
 The code has been tested in the following enviroment:
 * Ubuntu 18.04.4 LTS
@@ -18,3 +18,14 @@ Pre-trained model:
 # Running
 * Change the access mode of the .sh file by `chmod 700 *.sh`
 * `./run-lap.sh`
+# Citation
+If you find our work or the code useful, please consider cite our paper using:
+```
+@inproceedings{zhou2021closer,
+ title={To be Closer: Learning to Link up Aspects with Opinions},
+ author={Yuxiang, Zhou and Lejian, Liao and Yang, Gao and Zhanming, Jie and Wei, Lu},
+ booktitle={Proceedings of EMNLP},
+ year={2021}
+}
+```
+

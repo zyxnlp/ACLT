@@ -17,7 +17,7 @@ Pre-trained model:
 * Unzip the .zip file to the folder `ACLT/pretrain_model/`
 # Running
 * Change the access mode of the .sh file by `chmod 700 *.sh`
-* `./run-lap.sh`
+* `./run.sh`
 # Citation
 If you find our work or the code useful, please consider cite our paper using:
 ```

@@ -9,7 +9,7 @@ To install:
 * `conda create -n aclt python=3.8.3` 
 * `source activate aclt`
 * `git clone https://github.com/zyxnlp/ACLT.git`
-* `cd aclt`
+* `cd ACLT`
 * `pip install -r requirements.txt`  
 
 Pre-trained model:  

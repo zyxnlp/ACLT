@@ -8,7 +8,7 @@ The code has been tested in the following enviroment:
 To install:  
 * `conda create -n aclt python=3.8.3` 
 * `source activate aclt`
-* `git clone https://github.com/zyxnlp/code.git`
+* `git clone https://github.com/zyxnlp/ACLT.git`
 * `cd aclt`
 * `pip install -r requirements.txt`  
 

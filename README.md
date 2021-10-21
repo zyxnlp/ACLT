@@ -4,9 +4,9 @@ This repository is the PyTorch implementation of our ACLT model in EMNLP 2021 Pa
 The code has been tested in the following enviroment:
 * Ubuntu 18.04.4 LTS
 * Python 3.8.3  
-* torch version 1.9.0
-* cuda version 10.2
-* cudnn version 7605
+* torch 1.9.0
+* cuda 10.2
+* cudnn 7605
 
 To install:  
 * `conda create -n aclt python=3.8.3` 

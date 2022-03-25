@@ -26,7 +26,7 @@ If you find our work or the code useful, please consider cite our paper using:
 ```
 @inproceedings{zhou2021closer,
  title={To be Closer: Learning to Link up Aspects with Opinions},
- author={Yuxiang, Zhou and Lejian, Liao and Yang, Gao and Zhanming, Jie and Wei, Lu},
+ author={Zhou, Yuxiang and Liao, Lejian and Gao, Yang and Jie, Zhanming and Lu, Wei},
  booktitle={Proceedings of EMNLP},
  year={2021}
 }
